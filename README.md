@@ -1,5 +1,13 @@
 # Kafka-ClickHouse Real-Time Alert System
 
+![Status](https://img.shields.io/badge/status-archived-red)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-latest-231F20?logo=apache-kafka&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-latest-FFCC01?logo=clickhouse&logoColor=black)
+![Stream Processing](https://img.shields.io/badge/Stream%20Processing-Real--time-00ADD8)
+![Materialized Views](https://img.shields.io/badge/Materialized%20Views-SQL-orange)
+
 ## What is this
 
 A technical proof-of-concept demonstrating **ClickHouse Kafka Engine** for real-time stream processing and alerting. This system implements a complete data pipeline:
