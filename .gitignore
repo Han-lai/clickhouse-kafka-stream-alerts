@@ -53,3 +53,13 @@ Thumbs.db
 
 # Project specific
 setup_clickhouse.log
+
+# Internal documentation (not for public repo)
+SANITIZATION_REPORT.md
+PRE_PUBLICATION_CHECKLIST.md
+GITHUB_SETUP.md
+
+# Orphaned/duplicate files (not part of main workflow)
+setup_materialized_view.sql
+kafka_clickhouse_alert_project/gen_fake_data.py
+kafka_clickhouse_alert_project/setup_ch.py
