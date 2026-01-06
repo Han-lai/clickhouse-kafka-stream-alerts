@@ -1,0 +1,5 @@
+# Kafka client library
+confluent-kafka>=2.0.0
+
+# ClickHouse driver
+clickhouse-driver>=0.2.0
